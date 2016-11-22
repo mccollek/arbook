@@ -16,4 +16,5 @@
 # Ignore Byebug command history file.
 .byebug_history
 /.idea/
-/client/dist/
+/client/dist/*
+!/client/dist/make-dir-show.txt
